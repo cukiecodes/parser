@@ -5,7 +5,7 @@ from call2llm import get_response, get_continued_response  # Import specific fun
 import streamlit as st
 import json
 def main():
-    st.title("Question Parser")
+    st.title("MCQ Parser")
 
 
     uploaded_files = st.sidebar.file_uploader("Upload PDF files", accept_multiple_files=True, type=["pdf"])
