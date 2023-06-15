@@ -9,10 +9,6 @@ AskPDF is a Streamlit app that allows you to extract text from uploaded PDF file
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/naveenbalachandran/AskPDF.git
-   ```
-
 2. Navigate to the project directory:
 
    ```bash
